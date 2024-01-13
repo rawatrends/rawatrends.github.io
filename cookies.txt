@@ -1,0 +1,26 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+localhost:8080	TRUE	/blogs/wp-content/plugins	FALSE	1999999999	wordpress_5ff8cfc44168ca256d11a52b7a1297e3	%20
+localhost:8080	TRUE	/blogs/wp-content/plugins	FALSE	1999999999	wordpress_sec_5ff8cfc44168ca256d11a52b7a1297e3	%20
+localhost:8080	TRUE	/blogs/wp-admin	FALSE	1999999999	wordpress_5ff8cfc44168ca256d11a52b7a1297e3	%20
+localhost:8080	TRUE	/blogs/wp-admin	FALSE	1999999999	wordpress_sec_5ff8cfc44168ca256d11a52b7a1297e3	%20
+localhost:8080	TRUE	/blogs/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+localhost:8080	TRUE	/blogs/	FALSE	1999999999	wordpress_logged_in_5ff8cfc44168ca256d11a52b7a1297e3	%20
+localhost:8080	TRUE	/blogs/	FALSE	1999999999	wp-settings-0	%20
+localhost:8080	TRUE	/blogs/	FALSE	1999999999	wp-settings-time-0	%20
+localhost:8080	TRUE	/blogs/	FALSE	1999999999	wordpress_5ff8cfc44168ca256d11a52b7a1297e3	%20
+localhost:8080	TRUE	/blogs/	FALSE	1999999999	wordpress_sec_5ff8cfc44168ca256d11a52b7a1297e3	%20
+localhost:8080	TRUE	/blogs/	FALSE	1999999999	wordpressuser_5ff8cfc44168ca256d11a52b7a1297e3	%20
+localhost:8080	TRUE	/blogs/	FALSE	1999999999	wordpresspass_5ff8cfc44168ca256d11a52b7a1297e3	%20
+localhost:8080	TRUE	/blogs/	FALSE	1999999999	wp-postpass_5ff8cfc44168ca256d11a52b7a1297e3	%20
+localhost:8080	TRUE	/blogs/	FALSE	1999999999	woocommerce_items_in_cart	1
+localhost:8080	TRUE	/blogs/	FALSE	1999999999	woocommerce_cart_hash	f4132665ed5bf49435c15b0efb0cb6f6
+localhost:8080	TRUE	/blogs/	FALSE	1999999999	wp_woocommerce_session_5ff8cfc44168ca256d11a52b7a1297e3	t_5343f340703ee6136883b1e1d91ef6%7C%7C1705274721%7C%7C1705271121%7C%7Cc0c8dcce19ad4ab152168b147e692302
+.ok.ru	TRUE	/	FALSE	1999999999	bci	6715938984859129645
+.ok.ru	TRUE	/	FALSE	1999999999	_statid	b37bfda1-758f-4d29-b679-e3bfe74ce0d5
+www.pinterest.com	TRUE	/	FALSE	1999999999	csrftoken	25360664d4c40837f443b84c37855924
+.pinterest.com	TRUE	/	FALSE	1999999999	_pinterest_sess	TWc9PSZ6T3NUWnRRd0F6YWRSUnE4YnJNM3N5ZFBjbXBHS2VrOUhzaitJY2xnY2QxWDh2cHRzR1RySUxzTHpaeWF1dEd6VGdUcTJtTEV0aER2MW5rOFVEZ1p0dVExc2RXY0xaOFFYekZMVmJZdHRqST0mN0hXTjNmVE92bVFZU3FGalBEV3d6MVhaMUI0PQ==
+www.pinterest.com	TRUE	/	FALSE	1999999999	samesite	none
+.pinterest.com	TRUE	/	FALSE	1999999999	_auth	0
+www.pinterest.com	TRUE	/	FALSE	1999999999	_routing_id	d13ee490-4382-4b51-97ef-3b9955ec18b4"
+
